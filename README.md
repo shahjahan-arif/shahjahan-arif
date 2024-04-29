@@ -4,7 +4,7 @@
 </p>
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently learning **Ethereum Blockchain**
+- 🌱 I’m currently **Ethereum Blockchain**
 - 🌱 web frontend framework**react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahjahan-arif](https://github.com/shahjahan-arif)
