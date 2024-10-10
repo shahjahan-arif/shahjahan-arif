@@ -4,12 +4,12 @@
 </p>
 - 🔭 I’m currently working on **Blockchain**
 
-- 🌱 I’m currently **Ethereum Blockchain**
-- 🌱 web frontend framework**react.js**
+- 🌱 I’m currently **solana Blockchain**
+- 🌱 Mern Stack developer framework**react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahjahan-arif](https://github.com/shahjahan-arif)
 
-- 📫 How to reach me **johnoffical4u@gmail.com**
+- 📫 How to reach me **shajandevz@gmail.com**
 - 
 - ⚡ Fun fact **I think Im Funny**
 - 
