@@ -2,9 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Competitive+Programmer&font=Fira%20Code&center=true&width=380&height=50">
 </p>
-- 🔭 I’m currently working on **Blockchain**
+- 🔭 I’m working on **Blockchain**
 
-- 🌱 I’m currently **solana Blockchain**
+- 🌱 I’m on work **solana Blockchain**
 - 🌱 Mern Stack developer framework**react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahjahan-arif](https://github.com/shahjahan-arif)
