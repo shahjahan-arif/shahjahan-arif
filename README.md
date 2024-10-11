@@ -4,7 +4,7 @@
 </p>
 - 🔭 I’m working on **Blockchain**
 
-- 🌱 I’m on work **solana Blockchain**
+- 🌱  I’m diving deep into the **solana Blockchain**
 - 🌱 Mern Stack developer framework**react.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shahjahan-arif](https://github.com/shahjahan-arif)
